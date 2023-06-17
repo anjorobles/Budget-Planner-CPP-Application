@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622800562 source:c:\users\user\desktop\budget-planner\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	<vector>
+	<string>
+	<tchar.h>
+
